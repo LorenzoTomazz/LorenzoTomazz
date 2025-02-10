@@ -19,9 +19,8 @@
 
 - 💬 Ask me about **any technology you find here**
 
-- 📫 Feel free to reach me out **lucasraulsa@outlook.com**
+- 📫 Feel free to reach me out **tomazzonilorenzo@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [lucassantillana](https://www.linkedin.com/in/lucassantillana/) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
@@ -44,8 +43,8 @@
   <ul align="center">
     <summary><h2 style="display: inline-block;">JOIN MY CODING COMMUNITY</h2></summary>
     <br>
-  <a href="https://discord.gg/smzHyCNpnQ">
-    <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="Join my Discord server">
+  <a href="scamwebstie">
+    <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="nada">
   </a>
   </ul>
 </div>
@@ -60,7 +59,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/lucassantillana/" target="_blank">
+<a href="scamwebsite" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 </p>
@@ -73,9 +72,9 @@
 
 
 <p align="center">
-<a href="https://github.com/Luc4st1574">
+<a href="scamwebsite">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luc4st1574&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luc4st1574&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LorenzoTomazz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

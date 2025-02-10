@@ -44,7 +44,7 @@
     <summary><h2 style="display: inline-block;">JOIN MY CODING COMMUNITY</h2></summary>
     <br>
   <a href="scamwebstie">
-    <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="nada">
+    
   </a>
   </ul>
 </div>
